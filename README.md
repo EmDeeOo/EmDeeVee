@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmDeeOoo
+- 👋 Hi, I’m @EmDeeOo
 - 👀 I’m interested in programming/unix/cmdline/Arduino/Homeassistant/ESP
 - 🌱 I’m currently learning more and more python
 - 📫 How to reach me MarcDiederik007@gmail.com
